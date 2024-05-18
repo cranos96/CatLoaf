@@ -1,0 +1,8 @@
+{
+  "catloaf.config.header": "Configurazione del gatto accucciato",
+  "catloaf.config.category.general": "Generali",
+  "catloaf.config.loafChance": "Probabilità di accucciamento (%)",
+  "catloaf.config.loafChance.description": "Imposta la probabilità che il gatto si accucci anziché sedersi.",
+  "catloaf.config.overrideChanceWithBread": "Ignora la probabilità di accucciamento",
+  "catloaf.config.overrideChanceWithBread.description": "Se si ha in mano del pane, la probabilità che il gatto si accucci è del 100%."
+}
